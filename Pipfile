@@ -8,6 +8,8 @@ django = "*"
 django-tastypie = "*"
 python-decouple = "*"
 requests = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 autopep8 = "*"
